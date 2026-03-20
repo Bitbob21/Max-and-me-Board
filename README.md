@@ -4,7 +4,7 @@
 
 ## Sprint Rules
 - Weekly Sync: We review this board.
-- WIP Limit: Max 2 active tasks per project.
+- WIP Limit: Max 4 active projects.
 - Accountability: Max pings Seb if tasks stall.
 
 ---
@@ -81,29 +81,16 @@
 
 ---
 
-## 🗣️ Project 5: System Improvements (Max)
-**Priority: Low**
+## 📋 Backlog / Someday
+*Items not in the active sprint to maintain focus.*
 
-### 🟩 To Do (Backlog)
+### 🗣️ Project 5: System Improvements (Max)
 - Install TTS engine
 - E2E encrypted backup
 - Local Kanban dashboard
-
-### 🟨 In Progress (Active Sprint)
-
-### 🟦 Done
 - [x] LNbits Wallet setup
 
----
-
-## 🎲 Project 6: Autonomous Agent Betting (Predyx)
-**Priority: Low**
-
-### 🟩 To Do (Backlog)
+### 🎲 Project 6: Autonomous Agent Betting (Predyx)
 - Scrape beta.predyx.com
 - Develop decision-engine
 - Connect LNbits checkout
-
-### 🟨 In Progress (Active Sprint)
-
-### 🟦 Done
