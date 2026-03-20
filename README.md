@@ -1,4 +1,5 @@
 # 📋 Project Board: Seb & Max
+*Wallet Balance: 13,770 Sats*
 
 *Last Updated: 2026-03-20*
 
@@ -78,6 +79,22 @@
 ### 🟦 Done
 - [x] LN-Giftcard API bridge
 - [x] Cyborg handover concept
+
+---
+
+## 🔒 Project 7: Security Hardening (4/10 -> 8/10)
+**Priority: High (Infrastructure)**
+
+### 🟩 To Do (Backlog)
+- [ ] Configure `ufw` firewall (allow only SSH/18789)
+- [ ] Move from `root` to a restricted `openclaw` user
+- [ ] Encrypt `TOOLS.md` using GnuPG
+- [ ] Implement SSH key-based access for git
+
+### 🟨 In Progress (Active Sprint)
+
+### 🟦 Done
+- [x] Initial audit conducted (Current rating: 4/10)
 
 ---
 
