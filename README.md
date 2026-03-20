@@ -86,15 +86,29 @@
 **Priority: High (Infrastructure)**
 
 ### 🟩 To Do (Backlog)
-- [ ] Configure `ufw` firewall (allow only SSH/18789)
-- [ ] Move from `root` to a restricted `openclaw` user
-- [ ] Encrypt `TOOLS.md` using GnuPG
+- [ ] Configure ufw firewall (allow only SSH/18789)
+- [ ] Move from root to a restricted openclaw user
+- [ ] Encrypt TOOLS.md using GnuPG
 - [ ] Implement SSH key-based access for git
 
 ### 🟨 In Progress (Active Sprint)
 
 ### 🟦 Done
 - [x] Initial audit conducted (Current rating: 4/10)
+
+---
+
+## 🎙️ Project 8: Voice Assistant (Satellite)
+**Priority: Low (Setup)**
+
+### 🟩 To Do (Backlog)
+- Hardware list: Pi Zero 2W, ReSpeaker Mic Array v2.0, 16GB SD, USB-C Power
+- Setup: Porcupine (Wake word), Whisper.cpp (STT), librespot (Music)
+- Gateway API link
+
+### 🟨 In Progress (Active Sprint)
+
+### 🟦 Done
 
 ---
 
