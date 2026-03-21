@@ -1,7 +1,7 @@
 # 📋 Project Board: Seb & Max
 *Wallet Balance: 13,770 Sats*
 
-*Last Updated: 2026-03-20*
+*Last Updated: 2026-03-21*
 
 ## Sprint Rules
 - Weekly Sync: We review this board.
@@ -98,11 +98,23 @@
 
 ---
 
-## 🎙️ Project 8: Voice Assistant (Satellite)
+## 👤 Project 8: Personal / Logistics
+**Priority: Low**
+
+### 🟩 To Do (Backlog)
+- [ ] Message Mark: 021 678 757 (Pickup Luca tomorrow)
+
+### 🟨 In Progress (Active Sprint)
+
+### 🟦 Done
+
+---
+
+## 🎙️ Project 9: Voice Assistant (Satellite)
 **Priority: Low (Setup)**
 
 ### 🟩 To Do (Backlog)
-- Hardware list: Pi Zero 2W, ReSpeaker Mic Array v2.0, 16GB SD, USB-C Power
+- Hardware: ReSpeaker USB Mic Array v2.0
 - Setup: Porcupine (Wake word), Whisper.cpp (STT), librespot (Music)
 - Gateway API link
 
