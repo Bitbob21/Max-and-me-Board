@@ -7,6 +7,7 @@
 - Weekly Sync: We review this board.
 - WIP Limit: Max 4 active projects.
 - Accountability: Max pings Seb if tasks stall.
+- Approval: No tasks are marked "Done" until Seb provides explicit sign-off.
 
 ---
 
@@ -23,7 +24,7 @@
 
 ### 🟦 Done
 - [x] Research NZ tax obligations
-- [x] Initial target identification
+- [x] Initial target identification (5 nurseries)
 - [x] ROI strategy outlined
 
 ---
@@ -82,6 +83,20 @@
 
 ---
 
+## 🚀 Project 10: Creative HQ Workshop
+**Priority: High (Partnership)**
+
+### 🟩 To Do (Backlog)
+- Draft Workshop-Concept PDF ("The Agentic Founder OS")
+- Design pitch for the collaboration
+
+### 🟨 In Progress (Active Sprint)
+- [Max] Generate "Agentic Founder OS" slide deck concept
+
+### 🟦 Done
+
+---
+
 ## 🔒 Project 7: Security Hardening (4/10 -> 8/10)
 **Priority: High (Infrastructure)**
 
@@ -95,18 +110,6 @@
 
 ### 🟦 Done
 - [x] Initial audit conducted (Current rating: 4/10)
-
----
-
-## 👤 Project 8: Personal / Logistics
-**Priority: Low**
-
-### 🟩 To Do (Backlog)
-- [ ] Message Mark: 021 678 757 (Pickup Luca tomorrow)
-
-### 🟨 In Progress (Active Sprint)
-
-### 🟦 Done
 
 ---
 
