@@ -69,11 +69,11 @@
 ---
 
 ## 🐚 Project 12: OceanEar (Kina Sound Traps)
-**Priority: High**
+**Priority: High (Prio 1)**
 
 ### 🟩 To Do (Backlog)
-- Research trap designs
-- Define audio specs
+- [ ] App+Hardware: Kontaktiere Auarian (oder günstigerer Partner) für Partnerschaft
+- [ ] PAM Recorder: Hydrophone + Research (SoundTrap vs HydroMoth comparison)
 
 ### 🟨 In Progress (Active Sprint)
 
