@@ -72,13 +72,13 @@
 **Priority: High (Prio 1)**
 
 ### 🟩 To Do (Backlog)
-- [ ] App+Hardware: Kontaktiere Partner für Partnerschaft
-  - Aquarian Audio: aquarianaudio.com (USA, Standard)
-  - Natako Audio: natakoaudio.com (Israel, günstiger ~$60)
-- [ ] PAM Recorder: HydroMoth beschaffen
-  - GroupGets: groupgets.com/products/hydromoth
-  - Wildlife Monitoring Solutions: wildlifemonitoringsolutions.com/hydromoth
-- [ ] Research Permit klären (Ohad Peleg)
+- [ ] Kontaktiere Hardware-Partner für Partnerschaft
+  - Aquarian Audio: aquarianaudio.com (USA)
+  - Natako Audio: natakoaudio.com (Israel, ~$60 USD)
+- [ ] HydroMoth bestellen ($144.99 USD)
+  - GroupGets: SOLD OUT
+  - LabMaker: labmaker.org ($145, sofort lieferbar)
+- [ ] Ohad Peleg: Research Permit klären
 
 ### 🟨 In Progress (Active Sprint)
 
