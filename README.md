@@ -72,8 +72,13 @@
 **Priority: High (Prio 1)**
 
 ### 🟩 To Do (Backlog)
-- [ ] App+Hardware: Kontaktiere Auarian (oder günstigerer Partner) für Partnerschaft
-- [ ] PAM Recorder: Hydrophone + Research (SoundTrap vs HydroMoth comparison)
+- [ ] App+Hardware: Kontaktiere Partner für Partnerschaft
+  - Aquarian Audio: aquarianaudio.com (USA, Standard)
+  - Natako Audio: natakoaudio.com (Israel, günstiger ~$60)
+- [ ] PAM Recorder: HydroMoth beschaffen
+  - GroupGets: groupgets.com/products/hydromoth
+  - Wildlife Monitoring Solutions: wildlifemonitoringsolutions.com/hydromoth
+- [ ] Research Permit klären (Ohad Peleg)
 
 ### 🟨 In Progress (Active Sprint)
 
