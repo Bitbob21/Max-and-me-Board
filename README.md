@@ -68,17 +68,26 @@
 
 ---
 
-## 🐚 Project 12: OceanEar (Kina Sound Traps)
-**Priority: High (Prio 1)**
+## 🔧 Project 13: Workshop - Mission/Vision/Portfolio
+**Priority: High**
 
 ### 🟩 To Do (Backlog)
-- [ ] Kontaktiere Hardware-Partner für Partnerschaft
-  - Aquarian Audio: aquarianaudio.com (USA)
-  - Natako Audio: natakoaudio.com (Israel, ~$60 USD)
-- [ ] HydroMoth bestellen ($144.99 USD)
-  - GroupGets: SOLD OUT
-  - LabMaker: labmaker.org ($145, sofort lieferbar)
-- [ ] Ohad Peleg: Research Permit klären
+- [ ] Workshop: Morgen 9:30-11:00 Uhr (Mission, Vision, Portfolio definieren)
+- [ ] OceanEar App re-branden als Education/Citizenscience/Hi-Fi
+
+### 🟨 In Progress (Active Sprint)
+
+### 🟦 Done
+
+---
+
+## 🐚 Project 12: OceanEar (App + Hardware - FLAGSHIP PRODUCT)
+**Priority: High (Prio 1) - FlagShip**
+
+### 🟩 To Do (Backlog)
+- [ ] Hardware-Partner finden (Aquarian/Natako)
+- [ ] App entwickeln (Real-time Spektrogramm)
+- [ ] HydroMoth bestellen für R&D ($145)
 
 ### 🟨 In Progress (Active Sprint)
 
